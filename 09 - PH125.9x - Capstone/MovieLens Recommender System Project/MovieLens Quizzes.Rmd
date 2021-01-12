@@ -1,6 +1,6 @@
 ---
 title: "Harvard Data Science Professional Capstone Project - MovieLens Quizzes"
-author: "Phaneendra valaboju"
+author: "Phaneendra Valaboju"
 output: html_document
 ---
 

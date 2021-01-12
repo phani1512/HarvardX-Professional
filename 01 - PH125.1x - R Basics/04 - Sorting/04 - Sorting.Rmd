@@ -1,6 +1,6 @@
 ---
 title: "Assessment 04 - Sorting"
-author: "Alessandro Corradini - Harvard Data Science Professional"
+author: "Phaneendra Valaboju - Harvard Data Science Professional"
 output: html_document
 ---
 
@@ -9,7 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <br/>
-
 #### **sort**
 
 When looking at a dataset, we may want to sort the data in an order that makes more sense for analysis. Let's learn to do this using the ```murders``` dataset as an example.
