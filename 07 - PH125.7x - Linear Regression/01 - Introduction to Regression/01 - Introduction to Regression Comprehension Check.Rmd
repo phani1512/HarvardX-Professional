@@ -1,6 +1,6 @@
 ---
 title: "01 - Introduction to Regression Comprehension Check"
-author: "Alessandro Corradini - Harvard Data Science Professional"
+author: "Phaneendra Valaboju - Harvard Data Science Professional"
 description: "Harvard Data Science Professional"
 output:
   html_document: default

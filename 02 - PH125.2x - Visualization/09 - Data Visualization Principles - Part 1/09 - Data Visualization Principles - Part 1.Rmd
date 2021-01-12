@@ -1,6 +1,6 @@
 ---
 title: "Assessment 09 - Data Visualization Principles Part 1"
-author: "Alessandro Corradini - Harvard Data Science Professional"
+author: "Phaneendra Valaboju - Harvard Data Science Professional"
 output:
   pdf_document: default
   html_document: default

@@ -1,6 +1,6 @@
 ---
 title: "Assessment 03 - Confidence Intervals"
-author: "Alessandro Corradini - Harvard Data Science Professional"
+author: "Phaneendra Valaboju - Harvard Data Science Professional"
 output:
   html_document: default
   pdf_document: default
