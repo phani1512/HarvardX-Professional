@@ -1,6 +1,6 @@
 ---
 title: "MovieLens Recommender System Capstone Project - Report"
-author: "Phaneendra vlaboju - Harvard Data Science Professional"
+author: "Phaneendra valaboju - Harvard Data Science Professional"
 date: "12-01-2021"
 output:
   pdf_document:
